@@ -13,6 +13,7 @@
 - ### [Feature Selection](https://youtu.be/zgWXgX8wP3M)
 - ### [PCA](https://youtu.be/BE2uFaF8Gsc)
 - ### [t-SNE](https://youtu.be/Oia1VuLeBug)
+- ### [Pipeline](https://youtu.be/WRef5Xfthdw)
 - ### [Machine Learning with PyCaret](https://youtu.be/LEJlW6STeB0)
 
 ## Happy learning ... ✌️ 
