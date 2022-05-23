@@ -1,6 +1,6 @@
 ![ML](https://img.freepik.com/free-photo/group-diverse-people-having-business-meeting_53876-25060.jpg?t=st=1653310537~exp=1653311137~hmac=6e9b44fa586597fb7ca9d45a5c37f21c250b3e720af41608b5c4d3396e18a6ff&w=1380)
 
-# Hello 😄
+# Hello Everyone😄
 
 ## Here, you can find the jupyter notebook and datasets of the machine learning tutorial I used on the Tirendaz Academy YoutTube channel. 
 
