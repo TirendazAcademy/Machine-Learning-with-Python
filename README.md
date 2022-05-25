@@ -9,12 +9,13 @@
 - ### [Machine Learning Tutorial for Beginners](https://youtu.be/JtzFEZYFUlY)
 - ### [Linear Regression with Python](https://youtu.be/v-XZXPdXFn0)
 - ### [Machine Learning Roadmap](https://youtu.be/Wl3XZ6645pM)
+- ### [Machine Learning with PyCaret](https://youtu.be/LEJlW6STeB0)
 - ### [Feature Engineering](https://youtu.be/fwGjH-Vr3Bg)
 - ### [Feature Selection](https://youtu.be/zgWXgX8wP3M)
 - ### [PCA](https://youtu.be/BE2uFaF8Gsc)
 - ### [t-SNE](https://youtu.be/Oia1VuLeBug)
 - ### [Pipeline](https://youtu.be/WRef5Xfthdw)
-- ### [Machine Learning with PyCaret](https://youtu.be/LEJlW6STeB0)
+- ### [Cross-Validation](https://www.youtube.com/watch?v=3QdyBNqCuvU&list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ&index=9&pp=sAQB)
 
 ## Happy learning ... ✌️ 
 
