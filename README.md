@@ -15,7 +15,11 @@
 - ### [PCA](https://youtu.be/BE2uFaF8Gsc)
 - ### [t-SNE](https://youtu.be/Oia1VuLeBug)
 - ### [Pipeline](https://youtu.be/WRef5Xfthdw)
-- ### [Cross-Validation](https://www.youtube.com/watch?v=3QdyBNqCuvU&list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ&index=9&pp=sAQB)
+- ### [Cross-Validation](https://youtu.be/3QdyBNqCuvU)
+- ### [Grid Search](https://youtu.be/vz_6cHkK-Xc)
+- ### [Ensemble Learning - Voting](https://youtu.be/COxa_Xo7wnA)
+- ### [Ensemble Learning - Bagging](https://youtu.be/W7jdZKepZ1M)
+
 
 ## Happy learning ... ✌️ 
 
