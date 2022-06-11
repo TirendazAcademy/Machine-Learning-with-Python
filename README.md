@@ -19,6 +19,7 @@
 - ### [Grid Search](https://youtu.be/vz_6cHkK-Xc)
 - ### [Ensemble Learning - Voting](https://youtu.be/COxa_Xo7wnA)
 - ### [Ensemble Learning - Bagging](https://youtu.be/W7jdZKepZ1M)
+- ### [Ensemle Learning - AdaBoost](https://youtu.be/tHEP2t1onA0)
 
 
 ## Happy learning ... ✌️ 
