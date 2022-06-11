@@ -2,7 +2,7 @@
 
 # Hello Everyone😄
 
-## Here, you can find the jupyter notebook and datasets of the machine learning tutorial I used on the Tirendaz Academy YoutTube channel. 
+## In this repo, you can find the jupyter notebook and datasets of the machine learning tutorial I used on the Tirendaz Academy YoutTube channel. 
 
 ## YouTube 👉  [![](https://img.shields.io/badge/YouTube-English-deeppink?&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF](https://www.youtube.com/playlist?list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ))
 
@@ -15,7 +15,11 @@
 - ### [PCA](https://youtu.be/BE2uFaF8Gsc)
 - ### [t-SNE](https://youtu.be/Oia1VuLeBug)
 - ### [Pipeline](https://youtu.be/WRef5Xfthdw)
-- ### [Cross-Validation](https://www.youtube.com/watch?v=3QdyBNqCuvU&list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ&index=9&pp=sAQB)
+- ### [Cross-Validation](https://youtu.be/3QdyBNqCuvU)
+- ### [Grid Search](https://youtu.be/vz_6cHkK-Xc)
+- ### [Ensemble Learning - Voting](https://youtu.be/COxa_Xo7wnA)
+- ### [Ensemble Learning - Bagging](https://youtu.be/W7jdZKepZ1M)
+
 
 ## Happy learning ... ✌️ 
 
