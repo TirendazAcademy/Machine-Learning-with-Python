@@ -30,7 +30,7 @@ Machine Learning with Python is an exciting field that is rapidly evolving. This
 
 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) | [GitHub](http://github.com/tirendazacademy) | [Linkedin](https://www.linkedin.com/in/tirendaz-academy) | [Kaggle](https://www.kaggle.com/tirendazacademy) 😎
 
-[![](https://img.shields.io/badge/YouTube-English-deeppink?&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF](https://www.youtube.com/playlist?list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ))
+[![](https://img.shields.io/badge/YouTube-darkred?&logo=youtube&logoColor=white)]([https://www.youtube.com/watch?v=7p-an2KTO5o&list=PLfMRLSpipmfuumcvO3fObVAUpSqYAcZmF](https://www.youtube.com/playlist?list=PLbQRubTta6feDmLJPVlmB4WsP4kDpmQTQ))
 
 - [Machine Learning Tutorial for Beginners](https://youtu.be/JtzFEZYFUlY)
 - [Linear Regression with Python](https://youtu.be/v-XZXPdXFn0)
